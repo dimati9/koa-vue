@@ -1,6 +1,6 @@
 ## В проекте используется Koa+Vue+PostgresQL
 
-### 1. В первую очередь нужно запустить свой Postgres сервер и выполнить настройку файла 'koa-test/product/**product.js**'
+### 1. В первую очередь нужно запустить свой Postgres сервер и выполнить настройку файла 'koa.test/product/**product.js**'
 #### * - Имя таблицы 'tableName' и 'app.pool'
 
 
